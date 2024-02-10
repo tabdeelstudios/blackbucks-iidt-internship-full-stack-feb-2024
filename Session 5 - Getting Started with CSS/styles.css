@@ -1,0 +1,41 @@
+/* Cascading Style Sheets */
+
+/* body {
+    background-color: blue;
+} */
+
+/* CSS Selectors */
+
+/* Universal / Global Selector */
+/* * {
+    font-family: 'Courier';
+} */
+
+/* Element Selector / Tag Selector */
+/* h3 {
+    text-decoration: underline;
+} */
+
+/* Class Selector */
+/* .addToCartButton {
+    background-color: pink;
+} */
+
+/* ID Selector */
+/* #specialOffer {
+    font-style: italic;
+    background-color: burlywood;
+} */
+
+/* Grouping of selectors */
+/* h3,
+button {
+    background-color: brown;
+    color: yellow;
+} */
+
+#feedback {
+    background-image: url('hero_background.jpg');
+    background-size: cover;
+    background-position: center;
+}
