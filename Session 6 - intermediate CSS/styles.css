@@ -1,0 +1,77 @@
+/* Cascading Style Sheets */
+
+/* body {
+    background-color: blue;
+} */
+
+/* CSS Selectors */
+
+/* Universal / Global Selector */
+/* * {
+    font-family: 'Courier';
+} */
+
+/* Element Selector / Tag Selector */
+/* h3 {
+    text-decoration: underline;
+} */
+
+/* Class Selector */
+/* .addToCartButton {
+    background-color: pink;
+} */
+
+/* ID Selector */
+/* #specialOffer {
+    font-style: italic;
+    background-color: burlywood;
+} */
+
+/* Grouping of selectors */
+/* h3,
+button {
+    background-color: brown;
+    color: yellow;
+} */
+/* 
+#feedback {
+    background-image: url('hero_background.jpg');
+    background-size: cover;
+    background-position: center;
+} */
+
+/* #mainHeading {
+    font-size: 64px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: red;
+color: rgba(54, 30, 88, 56);
+color: #127a7132;
+font-family: 'Honk';
+} */
+
+/* #subHeading {
+    padding: 50px;
+    border: 5px solid red;
+    border-left: 5px dashed pink;
+    border-bottom: 7px dotted yellow;
+    margin: 50px;
+    margin-bottom: 200px;
+} */
+
+#description {
+    /* position: static; */
+    /* position: relative; */
+    /* top: 100px; */
+    /* left: 50px; */
+    /* position: absolute;
+    top: 250px; */
+    /* left: 50px; */
+    position: fixed;
+    top: 150px;
+    left: 50px;
+    background-color: pink;
+}
+
+
+/* Separation of Concerns */
