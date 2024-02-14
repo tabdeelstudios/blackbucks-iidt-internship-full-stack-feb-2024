@@ -9,3 +9,7 @@ Session 4 Recording Link : https://www.youtube.com/live/bvTmDyPlBQY?si=S3nLTJR_J
 Session 5 Recording Link : https://www.youtube.com/live/LdFYIB45ooc?si=-luSOGNpsxDndn8c
 
 Session 6 Recording Link : https://www.youtube.com/live/JV2c1a21Bhw?si=F426cCCctbmPZOw7
+
+----------------------------------------------------
+
+HTML Assignment Link : https://taptap.blackbucks.me/hackathon/1331/
