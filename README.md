@@ -18,4 +18,4 @@ Session 9 Recording Link : https://www.youtube.com/live/rvcDEXOLB2k?si=dcAjkTSRg
 
 ----------------------------------------------------
 
-HTML Assignment Link : [https://taptap.blackbucks.me/hackathon/1331/]https://taptap.blackbucks.me/hackathon/allRounds/1388/
+HTML Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
