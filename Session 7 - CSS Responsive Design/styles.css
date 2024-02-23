@@ -1,0 +1,65 @@
+/* body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: 'Verdana';
+    font-size: 48px;
+}
+
+p {
+    font-family: 'Comic Sans MS';
+    font-size: 26px;
+    font-weight: bold;
+}
+
+button {
+    padding: 20px;
+    font-size: 20px;
+    background-color: pink;
+    border-radius: 10px;
+} */
+/* 
+section {
+    display: flex;
+    background-color: pink;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#special {
+    height: 300px;
+    background-color: greenyellow;
+    width: 30%;
+}
+
+p {
+    width: 20%;
+} */
+
+/* section {
+    display: grid;
+    grid-template-columns: 20% 10% 70%;
+}
+
+#menu {
+    background-color: yellow;
+}
+
+#content {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: pink;
+    justify-content: space-evenly;
+}
+
+#content p {
+    width: 20%;
+} */
+
+section {
+    display: flex;
+    background-color: pink;
+    justify-content: space-evenly;
+    text-align: center;
+}

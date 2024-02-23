@@ -1,0 +1,75 @@
+h1 {
+    text-align: center;
+}
+
+#best-selling-courses {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.course img {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.course h2 {
+    text-align: center;
+    font-family: 'Verdana';
+    font-size: 20px;
+}
+
+.course p {
+    text-align: center;
+}
+
+.course {
+    border-radius: 20px;
+    border: 1px solid rgb(171, 169, 169);
+    margin-bottom: 40px;
+    box-shadow: 2px 2px 15px rgb(171, 169, 169);
+}
+
+.course div {
+    padding: 20px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .course {
+        width: 80%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .course {
+        width: 80%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .course {
+        width: 40%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .course {
+        width: 20%;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .course {
+        width: 20%;
+    }
+}
+
+.carousel-item img {
+    height: 500px;
+}
