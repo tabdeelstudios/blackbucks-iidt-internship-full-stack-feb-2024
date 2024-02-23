@@ -10,6 +10,12 @@ Session 5 Recording Link : https://www.youtube.com/live/LdFYIB45ooc?si=-luSOGNps
 
 Session 6 Recording Link : https://www.youtube.com/live/JV2c1a21Bhw?si=F426cCCctbmPZOw7
 
+Session 7 Recording Link : https://www.youtube.com/live/rY7L7KcoSf8?si=Px3gJtDHOWS7oLQd
+
+Session 8 Recording Link : https://www.youtube.com/live/rY7L7KcoSf8?si=N5pPggwNOXFLJcst
+
+Session 9 Recording Link : https://www.youtube.com/live/rvcDEXOLB2k?si=dcAjkTSRg5P5aEEg
+
 ----------------------------------------------------
 
-HTML Assignment Link : https://taptap.blackbucks.me/hackathon/1331/
+HTML Assignment Link : [https://taptap.blackbucks.me/hackathon/1331/](https://taptap.blackbucks.me/hackathon/allRounds/1388/)https://taptap.blackbucks.me/hackathon/allRounds/1388/
