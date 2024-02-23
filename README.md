@@ -16,6 +16,8 @@ Session 8 Recording Link : https://www.youtube.com/live/rY7L7KcoSf8?si=N5pPggwNO
 
 Session 9 Recording Link : https://www.youtube.com/live/rvcDEXOLB2k?si=dcAjkTSRg5P5aEEg
 
+Session 10 Recording Link : https://www.youtube.com/live/v3NPE-ziYOk?si=oUEi0Mh_0e3xxxp7
+
 ----------------------------------------------------
 
-HTML Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
+HTML + CSS Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
