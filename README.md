@@ -26,8 +26,8 @@ Session 13 Recording Link : https://www.youtube.com/live/vW3yjoMn-bw?si=bSEDdYh5
 
 ----------------------------------------------------
 
-LMS Link : https://taptap.blackbucks.me/
+#LMS Link : https://taptap.blackbucks.me/
 
-HTML + CSS Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
+##HTML + CSS Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
 
-JS Assignment Link : https://taptap.blackbucks.me/hackathon/1483
+###JS Assignment Link : https://taptap.blackbucks.me/hackathon/1483
