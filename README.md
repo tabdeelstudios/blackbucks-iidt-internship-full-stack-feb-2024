@@ -24,6 +24,8 @@ Session 12 Recording Link : https://www.youtube.com/live/p-1zanAEKAU?si=rJoa3ilR
 
 Session 13 Recording Link : https://www.youtube.com/live/vW3yjoMn-bw?si=bSEDdYh5OAz6jIif
 
+Session 14 Recording Link : https://www.youtube.com/live/eMZ2L2g8WYE?si=b0rxqkXfdnMJhZI8
+
 ----------------------------------------------------
 
 LMS Link : https://taptap.blackbucks.me/
