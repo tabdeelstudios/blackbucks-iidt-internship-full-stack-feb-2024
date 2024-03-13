@@ -1,7 +1,5 @@
 ----------------------------------------------------
 ### Session Recordings
-----------------------------------------------------
-
 1. Session 1 Recording Link : https://www.youtube.com/live/BGc3v2pkxVc?si=PbikykycZVt3Fn0t
 2. Session 2 Recording Link : https://www.youtube.com/live/uCSuwEIsiXw?si=JbgZsLmM1ouEis0O
 3. Session 3 Recording Link : https://www.youtube.com/live/uCSuwEIsiXw?si=5z7EWYb15lOZMQLg
@@ -25,7 +23,6 @@
 ----------------------------------------------------
 
 ### Assignment Links : https://taptap.blackbucks.me/
-----------------------------------------------------
 1. HTML + CSS Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
 2. JS Assignment Link : https://taptap.blackbucks.me/hackathon/1483
 3. ReactJS Assignment Link : https://taptap.blackbucks.me/hackathon/1540
