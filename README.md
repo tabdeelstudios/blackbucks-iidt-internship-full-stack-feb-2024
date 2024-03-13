@@ -22,7 +22,7 @@
 ### LMS Link : https://taptap.blackbucks.me/
 ----------------------------------------------------
 
-### Assignment Links : https://taptap.blackbucks.me/
+### Assignment Links
 1. HTML + CSS Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
 2. JS Assignment Link : https://taptap.blackbucks.me/hackathon/1483
 3. ReactJS Assignment Link : https://taptap.blackbucks.me/hackathon/1540
