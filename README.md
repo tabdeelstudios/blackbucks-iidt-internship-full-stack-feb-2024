@@ -1,4 +1,4 @@
-# Session 1 Recording Link : https://www.youtube.com/live/BGc3v2pkxVc?si=PbikykycZVt3Fn0t
+Session 1 Recording Link : https://www.youtube.com/live/BGc3v2pkxVc?si=PbikykycZVt3Fn0t
 
 Session 2 Recording Link : https://www.youtube.com/live/uCSuwEIsiXw?si=JbgZsLmM1ouEis0O
 
