@@ -34,8 +34,11 @@ Session 17 Recording Link : https://www.youtube.com/live/0oTQ3WVx0Q4?si=_uz_jY1H
 
 ----------------------------------------------------
 
-LMS Link : https://taptap.blackbucks.me/
+### LMS Link : https://taptap.blackbucks.me/
 
-HTML + CSS Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
+----------------------------------------------------
 
-JS Assignment Link : https://taptap.blackbucks.me/hackathon/1483
+## Assignment Links:
+1. HTML + CSS Assignment Link : https://taptap.blackbucks.me/hackathon/allRounds/1388/
+2. JS Assignment Link : https://taptap.blackbucks.me/hackathon/1483
+3. ReactJS Assignment Link : https://taptap.blackbucks.me/hackathon/1540
