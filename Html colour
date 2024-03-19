@@ -1,0 +1,55 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" 
+          content="IE=edge"> 
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0"> 
+    <title>Color Flipper</title> 
+    <link rel="stylesheet" href="style.css"> 
+</head> 
+  
+<body> 
+    <div id="colorFlipper"> 
+        <button onclick="changeColor()"> 
+              Flip Color 
+          </button> 
+    </div> 
+  
+</body> 
+<script src="script.js"></script> 
+</html>
+* { 
+    box-sizing: border-box; 
+    margin: 0px; 
+    padding: 0px; 
+} 
+  
+#colorFlipper { 
+    width: 100vw; 
+    height: 100vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    border: 1px solid black; 
+    background-color: white; 
+} 
+  
+button { 
+    height: 50px; 
+    width: 200px; 
+    background-color: black; 
+    color: white; 
+    border-radius: 50px; 
+    outline: none; 
+    font-size: 20px; 
+    cursor: pointer; 
+}
+function changeColor() { 
+    let red = Math.floor(Math.random() * 256); 
+    let green = Math.floor(Math.random() * 256); 
+    let blue = Math.floor(Math.random() * 256); 
+    let color = "rgb(" + red + "," + green + "," + blue + ")"; 
+    document.getElementById("colorFlipper").style.backgroundColor = color; 
+}
