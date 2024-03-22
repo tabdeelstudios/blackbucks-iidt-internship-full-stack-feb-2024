@@ -1,0 +1,23 @@
+1. Run "npm init -y" in the terminal -> Creates package.json
+2. Install nodemon -> "npm install -D nodemon"
+3. Install other dependencies -> "npm i express mongoose cors body-parser dotenv"
+4. Modify package.json. Replace "test" and add "start" script ->
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+5. Create index.js file
+6. Create a ".env" file
+7. Write all "index.js" logic
+8. Start server using "npm start"
+----------------------------------
+9. Signup to MongoDB
+10. Create a new Organisation
+11. Create a new Project
+12. Create the Database Cluster
+13. "Allow access from anywhere"
+14. Add a new user and password
+15. Click on "Connect -> Drivers"
+16. Copy the connection URL
+17. Paster the URL in dotenv file
+18. Modify the URL -> Add password and Database name
+19. Use "mongoose.connect(DB_URL)" to connect
