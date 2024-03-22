@@ -18,6 +18,7 @@
 16. Session 16 Recording Link : https://www.youtube.com/live/ettekxMwTXw?si=1U9UL1kkB-_bM04A
 17. Session 17 Recording Link : https://www.youtube.com/live/0oTQ3WVx0Q4?si=_uz_jY1HG0hXzVRg
 18. Session 18 Recording Link : https://www.youtube.com/live/IFs10QfW-dg?si=u7xQWWW_9it-Zsb8
+19. Session 19 Recording Link : https://www.youtube.com/live/m00iQU39IRg?si=Qd4S1FAjyEfd6l9s
 
 ----------------------------------------------------
 ### LMS Link : https://taptap.blackbucks.me/
