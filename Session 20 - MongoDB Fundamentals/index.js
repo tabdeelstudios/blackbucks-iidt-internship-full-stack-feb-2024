@@ -20,7 +20,7 @@ const newOrder = {
 };
 
 const db_url =
-  "mongodb+srv://aquibIIDT:aquibIIDT100@mongodb-demo-cluster.4falpdn.mongodb.net/mongodbDemo?retryWrites=true&w=majority&appName=MongoDB-Demo-Cluster";
+  "<<your_mongodb_url_here>>";
 
 const PORT = 3002;
 
