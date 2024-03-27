@@ -1,5 +1,7 @@
 ### YouTube Reference : https://www.youtube.com/channel/UCK6XGH___4fpjne-gp5cYUg
 
+## Abstract Sample : https://docs.google.com/document/d/1QJ_2FcYhyNO37fGTkw88gByao_Tx2p5z9Wrq2jbqtfs/edit?usp=sharing
+
 ----------------------------------------------------
 ### Session Recordings
 1. Session 1 Recording Link : https://www.youtube.com/live/BGc3v2pkxVc?si=PbikykycZVt3Fn0t
