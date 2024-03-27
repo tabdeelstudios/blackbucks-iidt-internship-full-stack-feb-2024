@@ -1,4 +1,4 @@
-### https://poetryhouseparty.com/
+### YouTube Reference : https://www.youtube.com/channel/UCK6XGH___4fpjne-gp5cYUg
 
 ----------------------------------------------------
 ### Session Recordings
