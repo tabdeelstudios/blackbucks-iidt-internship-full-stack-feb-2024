@@ -13,6 +13,18 @@
 ### Abstract Sample : https://docs.google.com/document/d/1QJ_2FcYhyNO37fGTkw88gByao_Tx2p5z9Wrq2jbqtfs/edit?usp=sharing
 
 ----------------------------------------------------
+
+## Submission Details :
+### 1. Project Report
+### 2. 2 GitHub Links (1 for FrontEnd and 1 for BackEnd)
+### 3. Netlify deployment URL for FrontEnd
+
+----------------------------------------------------
+
+### Netlify (for deployment) : https://www.netlify.com/
+
+----------------------------------------------------
+
 ### Session Recordings
 1. Session 1 Recording Link : https://www.youtube.com/live/BGc3v2pkxVc?si=PbikykycZVt3Fn0t
 2. Session 2 Recording Link : https://www.youtube.com/live/uCSuwEIsiXw?si=JbgZsLmM1ouEis0O
