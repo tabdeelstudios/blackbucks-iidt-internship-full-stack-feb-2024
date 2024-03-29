@@ -1,4 +1,14 @@
+----------------------------------------------------
+
 ### YouTube Reference : https://www.youtube.com/channel/UCK6XGH___4fpjne-gp5cYUg
+
+----------------------------------------------------
+
+### 1. ReactJS Reference : https://www.youtube.com/watch?v=7hOfUIClZI8
+### 2. ExpressJS Reference : https://www.youtube.com/watch?v=-I8pIj58zIw
+### 3. MongoDB Reference : https://www.youtube.com/watch?v=JWMoWXD-9cc
+
+----------------------------------------------------
 
 ### Abstract Sample : https://docs.google.com/document/d/1QJ_2FcYhyNO37fGTkw88gByao_Tx2p5z9Wrq2jbqtfs/edit?usp=sharing
 
