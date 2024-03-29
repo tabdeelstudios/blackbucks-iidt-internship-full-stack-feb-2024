@@ -7,3 +7,8 @@ Images - https://www.unsplash.com
 Vectors - https://www.freepik.com
 
 Dummy Text Generator - https://www.lipsum.com
+
+Sketch Diagrams - draw.io / https://app.diagrams.net/
+
+Wireframes - https://www.dribbble.com
+
