@@ -14,6 +14,10 @@
 
 ----------------------------------------------------
 
+### Sample Project Report is available in Session 10 - Project Talk folder
+
+----------------------------------------------------
+
 ## Submission Details :
 ### 1. Project Report
 ### 2. 2 GitHub Links (1 for FrontEnd and 1 for BackEnd)
