@@ -53,6 +53,7 @@
 20. Session 21 Recording Link : https://www.youtube.com/live/4fYA-sB09uo?si=BsNUqwFQLavbWyyr
 21. Session 22 Recording Link : https://www.youtube.com/live/Q0WBsOHpcWA?si=9j8f7EP1FgYiwo_p
 22. Session 23 Recording Link : https://www.youtube.com/live/2A6ouNGtzkQ?si=1srB9_VYCpveWCgr
+23. Revision Session 1 Link : https://www.youtube.com/live/72eUsWCTorw?si=sY9GoXe23WoR_CgI
 
 ----------------------------------------------------
 ### LMS Link : https://taptap.blackbucks.me/
