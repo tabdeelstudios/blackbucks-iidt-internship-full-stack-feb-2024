@@ -1,5 +1,9 @@
 ----------------------------------------------------
 
+## Check Team / Project Details : https://trainings.blackbucks.me/projects_selection/
+
+----------------------------------------------------
+
 ### YouTube Reference : https://www.youtube.com/channel/UCK6XGH___4fpjne-gp5cYUg
 
 ----------------------------------------------------
