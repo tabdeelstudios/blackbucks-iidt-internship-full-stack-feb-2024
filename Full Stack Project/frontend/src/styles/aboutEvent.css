@@ -1,0 +1,13 @@
+#aboutTheEvent{
+    text-align: center;
+}
+
+#allAboutEventCards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.aboutEventCard{
+    width: 27%;
+}
