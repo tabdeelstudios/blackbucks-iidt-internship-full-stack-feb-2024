@@ -1,0 +1,70 @@
+/* * {
+    margin: 0;
+}
+
+header {
+    color: royalblue;
+    background-color: pink;
+    padding: 20px 100px;
+    border: 10px ridge red;
+    border-radius: 10px;
+    margin: 100px;
+} */
+
+/* border-width: 4px;
+    border-style: dotted;
+    border-color: black; */
+/* 
+h1 {
+    margin-top: 150px;
+} */
+
+/* Create a Whatsapp Chatbot which is available at the bottom right and redirects to a whatsapp chat when clicked */
+header ~ p{ 
+    /* background-color: yellow; */
+    /* position: static; */
+    /* position: absolute;
+    top: 200px;
+    left: 400px; */
+    /* position: relative;
+    top: 100px;
+    left : 150px; */
+    /* position: fixed;
+    top: 200px;
+    left: 400px; */
+    /* position: sticky;
+    top: 20px; */
+    /* left: 400px; */
+}
+
+#chatbot{
+    height: 70px;
+    position: fixed;
+    bottom:50px;
+    right:50px;
+}
+
+header ~ p{
+    background-color: yellow;
+}
+
+[type="text"] {
+    border: 2px solid blue;
+    border-radius: 20px;
+}
+
+p a:hover{
+    color:red;
+}
+
+p a:active{
+    color:green;
+}
+
+p:hover{
+    background-color: pink;
+}
+
+p::first-line{
+    font-size: 50px;
+}
