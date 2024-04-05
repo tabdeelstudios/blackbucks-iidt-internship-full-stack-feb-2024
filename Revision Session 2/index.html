@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Recap</title>
+        <!-- External CSS -->
+        <link rel="stylesheet" href="styles.css">
+
+        <!-- Internal CSS -->
+        <style>
+            body{
+                /* background-color: pink; */
+                font-size: 18px;
+            }
+        </style>
+
+    </head>
+    <!-- Inline CSS -->
+    <body style="">
+       <!-- Heading tags -->
+        <div id="hero_section">
+            <h1 id="page_title" class="underline_this">This is a heading</h1>
+            <h2>This is a heading</h2>
+            <h3 class="underline_this">This is a heading</h3>
+            <h4>This is a heading</h4>
+            <h5 class="underline_this">This is a heading</h5>
+            <h6>This is a heading</h6>
+        </div>
+
+        <!-- Horizontal Rule -->
+        <hr/>
+
+        <!-- Paragraph tag -->
+        <p>
+        Lorem <u>ipsum</u>, <i>dolor sit amet</i> <br/><b>consectetur</b> adipisicing elit.
+        <span class="underline_this">Consequuntur</span> <em>dolores</em></i> <strong>doloremque</strong> ad a minus odio enim, maxime repellendus dolor
+        nobis voluptatum ab reiciendis<br/> unde hic? Voluptate cum quo facilis est!
+        </p>
+
+        <!-- Lists in HTML -->
+        <div>
+            <ol>
+            <li>
+                <p>Item One</p>
+            </li>
+            <li>
+                <p>Item Two</p>
+            </li>
+            <li class="underline_this">
+                <p>Item Three</p>
+            </li>
+            </ol>
+
+            <ul id="listSection">
+            <li>
+                <p>Item One</p>
+            </li>
+            <li>
+                <p>Item Two</p>
+            </li>
+            <li>
+                <p>Item Three</p>
+            </li>
+            </ul>
+        </div>
+
+        <!-- Links -->
+        <a href="https://www.google.com">Go to Google</a> <!-- External Website -->
+        <a href="pages/about.html">About Page</a> <!-- Internal Page -->
+        <a href="#listSection">Scroll to Lists</a> <!-- Link within the page -->
+
+        <br/>
+        <!-- Images -->
+        <img src="https://images.unsplash.com/photo-1711637499662-2b20c12d956f?q=80&w=3542&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" width="500px"/>
+
+        <img src="images/image_demo.jpg" alt="" width="500px"/>
+
+        <!-- Embedding -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2Te4-B1wHAI?si=Q_3wTUin9br8pxt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        <!-- Tables in HTML -->
+        <table border="1">
+            <caption>Title of the table</caption>
+            <thead>
+                <tr>
+                    <th>S No</th>
+                    <th>Credit</th>
+                    <th>Debit</th>
+                    <th>Current Balance</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>1000</td>
+                    <td></td>
+                    <td>1000</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td></td>
+                    <td>500</td>
+                    <td>500</td>
+                </tr>
+            </tbody>
+        </table>
+        <br/><br/><br/><br/><br/><br/><br/><br/>
+        <!-- Forms in HTML -->
+        <form>
+            <label for="first_name">First Name : </label>
+            <input id="first_name" type="text" placeholder="Enter the name" minlength="10" maxlength="100" name="first_name"/>
+            <input type="password" required/>
+            <br/>
+            <input type="email" value="hello@gmail.com" required readonly/>
+            <input type="number" min="10" max="100"/>
+            <input type="range" min="1" max="5" step="1"/>
+            <label for="debit_card">Debit card</label>
+             <input id="debit_card" type="radio" name="payment_method"/>
+            QR Code<input type="radio" name="payment_method"/>
+            Cash<input type="radio" name="payment_method"/>
+            <br/>
+            <label for="agree_terms">Agree to terms</label>
+            <input id="agree_terms" type="checkbox" checked>
+
+            <select>
+                <option>Choice one</option>
+                <option>Choice two</option>
+                <option selected>Choice three</option>
+                <option>Choice four</option>
+            </select>
+
+            <textarea rows="10" cols="50"></textarea>
+            <input type="submit" value="Submit"/>
+            <input type="reset" value="Reset"/>
+        </form>
+        <br/><br/><br/><br/><br/><br/><br/><br/>
+    </body>
+</html>

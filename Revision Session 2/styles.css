@@ -1,0 +1,33 @@
+/* Universal Selector */
+* {
+    font-family: 'Comic Sans MS';
+}
+
+/* Element Selector / Tag Selector / HTML Selector */
+body {
+    /* background-color: royalblue; */
+}
+
+/* Class Selector */
+.underline_this {
+    text-decoration: underline;
+}
+
+/* ID Selector */
+#page_title {
+    background-color: yellow;
+}
+
+/* Multiple Selectors */
+h2, h4, h6 {
+    font-size: 28px;
+}
+
+/* Styling the Hero Section */
+#hero_section{
+    width: 50%;
+    background-image: url('images/image_demo.jpg');
+    background-size: contain;
+    /* background-position: bottom; */
+    /* background-repeat: repeat-x; */
+}
